@@ -7,7 +7,6 @@ let firstNumberValue: number | undefined;
 let secondNumberValue: number | undefined;
 
 
-
 formReference.addEventListener("submit", (e) => {
   e.preventDefault();
 
